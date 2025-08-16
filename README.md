@@ -5,7 +5,7 @@
 - Mysql, Elasticsearch
 
 ## Data Table
-
+<img src="https://github.com/Kan9hee/ElasticSearch_Comparison/blob/main/dataSetting.png" width="500"/>
 
 ## 검색 조건
 name에 "여행"을 포함하는 모든 데이터 검색
